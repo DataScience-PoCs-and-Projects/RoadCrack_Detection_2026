@@ -1,7 +1,12 @@
-# RoadCrack\_Detection\_2026
+\# RoadCrack\_Detection\_2026
 
-Road Crack detection using Instance Segmentation methods
-# Road Crack Detection – Proposed Method
+
+
+Road Crack Detection using Instance Segmentation Methods
+
+
+
+\# Road Crack Detection – Proposed Method
 
 
 
@@ -78,6 +83,8 @@ The system consists of four major components:
 
 
 Combines detection results and visual analysis to provide:
+
+
 
 \- Defect identification.
 
